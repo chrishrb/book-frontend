@@ -1,5 +1,9 @@
 # book-frontend
 
+Frontend for the bachelor thesis book application.
+
+![screenshot](./.github/screenshot.png)
+
 ## Developing
 
 ```bash
